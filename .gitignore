@@ -1,0 +1,7 @@
+.settings
+src/main/resources/*
+src/main/webapp/*
+target
+WebContent
+.classpath
+.project
